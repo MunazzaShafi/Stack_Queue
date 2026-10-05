@@ -1,5 +1,7 @@
 1. [Min Stack](https://leetcode.com/problems/min-stack/submissions/2157924952/)
 
+2. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2163249194/)
+
 
 
                          STACK
